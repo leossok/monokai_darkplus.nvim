@@ -1,1 +1,1 @@
-# darkplus.nvim
+# monokai_darkplus.nvim
