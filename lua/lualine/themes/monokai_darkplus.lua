@@ -3,19 +3,19 @@
 -- Credit: Zoltan Dalmadi(lightline)
 -- LuaFormatter off
 local colors = {
-  blue   = '#66D9EF',
-  green  = '#60cf30',
-  purple = '#CD5AC5',
-  red1   = '#F92672',
-  yellow = '#FFEE99',
-  orange = '#FD971F',
-  fg     = '#F8F8F2',
-  bg     = '#242424',
+  blue   = '#569cd6',
+  green  = '#6a9955',
+  purple = '#c586c0',
+  red1   = '#d16969',
+  yellow = '#dcdcaa',
+  orange = '#ce9178',
+  fg     = '#d4d4d4',
+  bg     = '#007acc',
   -- bg     = '#68217a',
   -- bg     = '#252525',
-  gray1  = '#8C8C8C',
-  gray2  = '#403d3d',
-  gray3  = '#3D3D3D',
+  gray1  = '#5c6370',
+  gray2  = '#2c323d',
+  gray3  = '#3e4452',
 }
 -- LuaFormatter on
 return {
